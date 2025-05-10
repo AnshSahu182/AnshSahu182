@@ -1,9 +1,9 @@
-👋 Hi, I’m Ansh Sahu
-👀 I’m interested in data science machine learning using python and building impactful tech products
-🌱 I’m currently learning Python for data science, and cloud computing (AWS)
-💞️ I’m looking to collaborate on open-source projects, innovative startups, and tech-for-good initiatives
-📫 How to reach me: anshsahu182@gmail.com
-😄 Pronouns: he/him
+- 👋 Hi, I’m Ansh Sahu
+- 👀 I’m interested in data science machine learning using python and building impactful tech products
+- 🌱 I’m currently learning Python for data science, and cloud computing (AWS)
+- 💞️ I’m looking to collaborate on open-source projects, innovative startups, and tech-for-good initiatives
+- 📫 How to reach me: anshsahu182@gmail.com
+- 😄 Pronouns: he/him
 - ⚡ Fun fact:I love to learn new tech and use them in my projects
 
 <!---
