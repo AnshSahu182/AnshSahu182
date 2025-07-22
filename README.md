@@ -7,6 +7,6 @@
 - ⚡ Fun fact:I love to learn new tech and use them in my projects
 
 <!---
-AnshSahu182/AnshSahu182 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ansh Sahu/Ansh Sahu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
